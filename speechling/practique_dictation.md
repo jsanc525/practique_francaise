@@ -32,3 +32,39 @@ I:
 C: C'est une position fragile.
 
 Aussi, j'ai complete huit minutes avec conjugemos. le premier temp environ 70% parce que je n'fait pas attention mais le douziem temp je obtaines 97%.
+
+## 08-05-2026
+
+I: je ne peux pas le garantier
+C: Je ne peux pas le garantir.
+
+I: vont-tu des medicements?
+C: Vends-tu des médicaments?
+
+I: Veux-tu y alles avec moi?
+C: Veux-tu y aller avec moi?
+
+I: De quell coleur est cet voiture
+C: De quelle couleur est cette voiture ?
+
+I: Je ne sais pas comment utilizee .
+C: Je ne sais pas comment l'utiliser . 
+
+I: J'ai renverse le lettre.  
+C: J'ai renverse le lait . ( correctement avec le "turtle")
+
+I: Je parle des deux langues.
+C: Je parl deux langues.
+
+I: N/A
+C: Il n'aime pas le basket.
+
+I: Ou est ton aime ?
+C: Ou est ton ami ?
+
+I: As-tu fini l'etudie
+C: As-tu fini l'etudier ?
+
+### Conjuguemos: le present tout le verbes
+
+58 %
