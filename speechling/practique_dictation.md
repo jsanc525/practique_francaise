@@ -68,3 +68,40 @@ C: As-tu fini l'etudier ?
 ### Conjuguemos: le present tout le verbes
 
 58 %
+
+## 09-05-26
+
+duo
+
+## 10-05-26
+
+duo
+
+## 11-05-26
+
+duo
+
+## 12-05-26
+
+duo
+
+## 13-05-26
+
+I: You wrote: lls ne connais pas beaucop de genre
+C: Ils ne connaissent pas beaucoup des gens
+
+I: You wrote: ce poule et lait
+C: Ce pull est laid
+
+I: You wrote: aime-t le basket
+C: Aiment-ils le basket?
+
+I: N/A
+C: Ma ville natale me manque.
+
+I: You wrote: Quell sont te louzieere
+C: Quels sont tes loisirs ?
+
+conjeugeuemos:
+
+44% ir verbs
