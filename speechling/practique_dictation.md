@@ -105,3 +105,177 @@ duo
 conjeugeuemos:
 
 44% ir verbs
+
+## 14-05-2026
+
+**speechling**  
+
+- I:  You wrote: jouex tu au basket
+- C:  Joues-tu au basket?
+
+- I: You wrote: Le terre n'est pas plat
+- C: La terre n'est pas plate .
+
+- I: You wrote: des accusations etais faux
+- C: Les accusations étaient fausses.
+
+- I: You wrote: je ne veux pas ma patte avec toi
+- C: Je ne veux pas me battre avec toi.
+
+- I: You wrote: pourqoui la regarde-tu
+- C: Pourquoi la regardes-tu? (self correct)
+
+- I: You wrote: fait il froid dans la chambre
+- C: Fait-il froid dans ta chambre ? (self correct)
+
+- I: You wrote: C'est tu ce que veux lavadire
+- C: Sais-tu ce que cela veut dire ?
+
+- I: You wrote: Quell travaille fait-tu
+- C: Quel travail fais-tu ?
+
+**conjuguemos**
+
+- prompt: nous choisir
+- Answer: nous choissisons
+- Correct: nous choisissons (?)
+
+- prompt: nous guérir
+- Answer: nous guérissons
+- Correct: nous guérissons
+
+- prompt: nous réussir
+- Answer: nous réussisons
+- Correct: nous réussissons
+
+- prompt: tu agir
+- Answer: tu agis
+
+- prompt: vous nourrir
+- Answer: vous nourrissez
+
+- prompt: vous guérir
+- answer: vous guérissez
+
+- prompt: vous désobéir
+- answer: vous désobéissez
+
+- prompt: tu punir
+- answer: tu punis
+
+- prompt: je désobéir
+- answer: je désobéis
+
+- prompt: nous obéir
+- answer: nous obéissons
+
+- prompt: on obéir
+- answer: on obéit
+
+- prompt: ells saisir
+- answer: elles saisissent
+
+- prompt: elles choisir
+- answer: elles choisissent
+
+## 15-05-2026
+
+**speechling**
+
+- I: You wrote: C'est pret du supermarche
+- C: C'est prés du supermarché .
+
+- I: N/A
+- C: Fait-il froid dans ta chambre ?
+
+- I: You wrote: Je pense que ca a bon guet
+- C: Je pense que ça a bon goût.
+
+- I: N/A
+- C: Je lis le journal.
+
+- I: You wrote: Je pense que ca a bon guet
+- C: Combien de temps ça va durer ?
+
+- I: You wrote: Combien ça la va t-il coute
+- C: Combien cela va-t-il coûter ?
+
+- I: You wrote: Je voudrais une reimbersiment
+- C: Je voudrais un remboursement .
+
+- I: You wrote: Sont-il en train de filmer une video
+- C: Sont-ils en train de filmer une vidéo ? ( why no liazon here?)
+
+- I: You wrote: prend te vetements
+- C: Prends tes vêtements.
+
+- I: You wrote: je me promener dans le baitement
+- C: Je me promène dans le bâtiment.
+
+**conjugemous**
+
+ecrit perecentages
+
+## 17-05-2026
+
+- I: You wrote: naige-t-il hier
+- C: Neigeait-il hier ?
+
+- I: You wrote: Est-ce que tu pou venir chez moi
+- C: Est-ce que tu peux benir chez moi ?
+
+- I: You wrote: Est-ce que tu pret le faire
+- C: Est-ce que tu es  prêt à le faire ?
+
+- I: You wrote: j'aime regardes le television
+- C: J'aime regarder la television .
+
+- I: You wrote: L'eau est essential a la vie
+- C: L'eau est essentielle à la vie.
+
+- I: You wrote: Elle es interessee par la sport
+- C: Elle est intéressée par le sport.
+
+- I: You wrote: Tu resemble ma soir
+- C: Tu ressembles à ma soeur.
+
+- I: You wrote: le quell prefere t le mieuc
+- C: Lequel préfère-t-elle le mieux
+
+- I: You wrote: Le jamais accune adore le bobsled
+- C: Les Jamaïcains adorent le bobsleigh.
+
+- I: you wrote: deux vient juli
+- C: D'où vient Julie ?
+
+- I: You wrote: Emily vien-t-elle au japon
+- C: Emiliy vient-elle du Japon.
+
+- I: You wrote: est-il en train de rollee en train
+- C: Est-il en train de rouler un train ?
+
+- I: You wrote: Est-ce que tu as zase d'argent
+- C: Est-ce que tu as assez d'argent ?
+
+- I: You wrote: je n'ecoute pas des musiques
+- C: Je n'ecoute pas des musique .
+
+- I: You wrote: Est-ce que tu fait la cours au toilette
+- C: Est-ce que tu fais la queue aux toilettes ?
+
+- I: You wrote: Est-ce que c'est une ceremony cest la nelle
+- C: Est-ce que c'est une cérémonie solennele ?
+
+- I: You wrote: vont-tu de medicaments
+- C: Vends-tu des médicaments ?
+
+- I: N/A
+- C: Ils nous attendent.
+
+- I: You wrote: je vais prendre ce lui ce aussi
+- C: Je vais prendre celui-ci aussi.
+
+- I: You wrote: quand revien-tu
+- C: Quand reviens-tu?
+
+**conjegamous**
