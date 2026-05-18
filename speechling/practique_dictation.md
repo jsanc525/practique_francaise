@@ -279,3 +279,41 @@ ecrit perecentages
 - C: Quand reviens-tu?
 
 **conjegamous**
+
+## 18-05-2026
+
+- I: You wrote: attendez montou
+- C: A-t-elle un manteau ?
+
+- I: You wrote: quell est les tours des changes
+- C: Quel est le taux de change ?
+
+- I: You wrote: le despute etait intense
+- C: La dispute était intense. ( self-correct turtle )
+
+- I: You wrote: nous avons faire un error
+- C: Nous avons fait und erreur. ( self-correct turtle )
+
+- I: You wrote: est-ce que j'ai l'air sincre
+- C: Est-ce que j'ai l'air sincècere ?
+
+- I: You wrote: je payarait pour le dinner
+- C: Je payerai pour le dîner.
+
+- I: You wrote: roderigo jeux routil ou volait
+- C Rodrigo joue-t-il au volley?
+
+- I: You wrote: Est-ce que cest reponse definitive
+- C: Est-ce que c'est ta réponse définitive ?
+
+- I: You wrote: firme le porte s-il-te plait
+- C: Ferme la porte, s'il te plaît. 
+
+- I: N/A
+- C: Je parle deux langues. 
+
+**conjuguemos**
+
+- -er 28/33
+- -ir 11/17
+- -re 37/38
