@@ -317,3 +317,41 @@ ecrit perecentages
 - -er 28/33
 - -ir 11/17
 - -re 37/38
+
+## 19-05-2026
+
+- I: You wrote: Ta voiture functione t-elle
+- C: Ta voiture fonctionne-t-elle ?
+
+- I: You wrote: Arrete d'etre bizzare
+- C: Arrête d'être bizarre. ( self correct )
+
+- I: You wrote: Elle habite au central ville
+- C: Elle habite au centre ville.
+
+- I: You wrote: tu applle au liu aujourd'hui
+- C: Tu as belle allure aujourd'hui. ( self correct turtle )
+
+- I: You wrote: commandre t-il quelque chose
+- C: Commande-t-il quelque chose ? ( self correct turtle )
+
+- I: You wrote: quel travaille fait-tu
+- C: Quel travail fais-tu ?
+
+- I: You wrote: j'aime regardre le television
+- C: J'aime regarder la télévision. ( self correct turtle )
+
+- I: N/A
+- C: Je déteste le lundi.
+
+- I: N/A
+- C: Quand est-ce que nous arrivons?
+
+- I: You wrote: Quell age as amanda
+- C: Quel âge a Amanda ? ( self correct )
+
+**conjuguemos**
+
+- -er: 26/28 rembmber je -> e ( 2 minutes )
+- -re: 23/24 accidental read of elle instead of elles ( 2 minutes )
+- -ir: 36/42 (5 minutes)
