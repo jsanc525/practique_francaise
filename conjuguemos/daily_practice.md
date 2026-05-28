@@ -1,21 +1,7 @@
-# Discrimination
+# Les results de la conjugemos par jour
 
-## Quelle forme verbale entendez-vous ? Cochez.
+## 28 Mai, 2026
 
-1. Elles lisent.
-2. Il dit oui.
-3. Elle traduit.
-4. Elles vous plaisent.
-5. Elles vous connaissent.
-6. Il paraît fatigué.
+## Melange de present (regular verbs)
 
-## Une des deux formes est répétée. Laquelle ? Cochez
-
-1. Ils s'aident
-2. un poisson
-3. un zoo
-4. un coussin
-5. des russes
-6. deux heures
-7. les yeux
-8. l'Asie
+- 89 % (42/47) 5 minutes
