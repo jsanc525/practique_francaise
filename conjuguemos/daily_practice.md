@@ -17,3 +17,7 @@
 ## Melange de present (regular verbs)
 
 - 88% (52/59) 5 minutes
+
+## Irregular -ir verbs
+
+- 10 minutes ( not timed 38/48, actual knowledge is probably 1/4 of score )
