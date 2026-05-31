@@ -21,3 +21,7 @@
 ## Irregular -ir verbs
 
 - 10 minutes ( not timed 38/48, actual knowledge is probably 1/4 of score )
+
+## 31 Mai, 2026
+
+- 92% 46/50 5 minutes ( not timed )
