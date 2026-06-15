@@ -8,3 +8,6 @@
 
 - F: Tu pousses le bouchon un peu trop loin
 - E: You're pushing the cork a bit too far/dont go too far
+
+- F: On a fusillé pour moins que ça
+- E: people have been shot for less than that
