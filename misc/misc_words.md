@@ -17,7 +17,7 @@
 - Tous les 36 du mois: never happening but should
 - À la saint Glinglin: see above
 - Il a les dents qui raient le parquet: he was too greedy/ambitious
-
+- Péter plus haut que son cul: to be arrogant 
 ## Words:
 
 - aprem/aprèm: afternoon
