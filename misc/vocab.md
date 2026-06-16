@@ -4,3 +4,4 @@
 - beau ---: any family not part of immediate family as in in-laws and step
 - Demi--- : half brother/sister
 - tellement: so (?) source: duo
+- beau gosse: pretty boy/dude

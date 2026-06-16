@@ -11,3 +11,6 @@
 
 - F: On a fusillé pour moins que ça
 - E: people have been shot for less than that
+
+- F:Les cons ca ose tout, c'est meme à ça qu'on les reconnait
+- E: Fools/Idiots dare anything, that's how you recognize them
