@@ -8,24 +8,20 @@
 
 ## Irregular avec être
 
+**Note:** Le verbe prend le gender. Par example: Si nous est toute femme aller->allées  
+
 **aller:**  
 
-- je/tu/il -> allé
-- elle -> allée
-- nous/vous/ils -> allés
-- elles -> allées  
+- je/tu/il/elle -> allé/allée
+- nous/vous/ils/elles -> allés/allées
 
 **descendre**  
 **Note:** Also an avoir conjugation ?
 
-- je/tu/il -> descendu
-- elle -> descendue
-- nous/vous/ils -> descendus
-- elles -> descendues
+- je/tu/il/elle -> descendu/descendue
+- nous/vous/ils/elles -> descendus/descendues
 
 **mourir**  
 
-- je/tu/il -> mort
-- elle -> morte
-- nous/vous/ils -> morts
-- elles -> mortes
+- je/tu/il/elle -> mort/morte
+- nous/vous/ils/elles -> morts/mortes
