@@ -1,5 +1,43 @@
 # Dictation
 
+## 09 Aout, 2026
+
+- I: You wrote: Que-vu-tu acheter
+- C: Que veux-tu acheter ?
+
+- I: You wrote: Elle etais mallade dans son lit.
+- C: Elle était malade dans son lit.
+
+- I: N/A
+- C: Elle habite dans mon quartier.
+
+- I: N/A
+- C: Ma voiture ne roule pas.
+
+- I: You wrote: y-a-t-il de conern
+- C: Y a-t-il des concerts ?
+
+- I: You wrote: A t'elle une manteau
+- C: A-t-elle un manteau ?
+
+- I: You wrote: Je ne parle pas tres bien.
+- C: Je ne parle pas très bien.
+
+- I: You wrote: J'ai bessoin de mushoir
+- C: J'ai besoin de mouchoirs.
+
+- I: You wrote: Il sera de retour très bientot
+- C: Il sera de retour très bientôt.
+
+- I: You wrote: Fait-il foid dans ta chambre
+- C: Fait-il froid dans ta chambre ?
+
+## Erreurs
+
+- <>
+
+## Vocab
+
 ## 07 Aout, 2026
 
 - I: You wrote: Ta voiture function t-elle
