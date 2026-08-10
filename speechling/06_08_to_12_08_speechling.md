@@ -1,5 +1,43 @@
 # Dictation
 
+## 10 Aout, 2026
+
+- I: You wrote: Les possibilites sont infinit
+- C: Les possibilités sont infinies.
+
+- I: You wrote: Pour combien des nuits
+- C: Pour combien de nuits ?
+
+- I: You wrote: Vends-tu des mediements
+- C: Vends-tu des médicaments ?
+
+- I: You wrote: Ils n'aiment pas des baskets
+- C: Il n'aime pas le basket.
+
+- I: N/A
+- C: Veux-tu venir avec moi ?
+
+- I: You wrote: C'est un belle home
+- C: C'est un bel homme.
+
+- I: N/A
+- C: Où allez-vous ?
+
+- I: You wrote: Où la-tu as pris
+- C: Où l'as-tu appris ?
+
+- I: You wrote: Desole, nous n'avons pas
+- C: Désolés, nous n'en avons pas. ( unfamiliar word but sort of like y?)
+
+- I: You wrote: Y a-t-il quelque choses des moins cher
+- C: Y a-t-il quelque chose de moins cher
+
+## Erreurs
+
+- <>
+
+## Vocab
+
 ## 09 Aout, 2026
 
 - I: You wrote: Que-vu-tu acheter
