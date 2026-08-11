@@ -1,5 +1,43 @@
 # Dictation
 
+## Dictation
+
+- I: N/A
+- C: Y a-t-il quelque chose de moins cher ?
+
+- I: You wrote: Ta femme est elle infirmier
+- C: Ta femme est-elle infirmière ?
+
+- I: You wrote: Où voudrais-tu que lances retrouver
+- C: Où voudrais-tu que l'on se retrouve ?
+
+- I: You wrote: Je ne veux pas me batre avec toi
+- C: Je ne veux pas me battre avec toi.
+
+- I: N/A
+- C: Je parle deux langues.
+
+- I: You wrote: La fette est toujours encore
+- C: La fête est toujours en cours.
+
+- I: You wrote: Naigit-il hier
+- C: Neigeait-il hier ?
+
+- I: You wrote: Où la tu apris
+- C: Où l'as-tu appris ?
+
+- I: You wrote: As-tu deja manger
+- C: As-tu deja mangé ?
+
+- I: You wrote: Es-tu une perssone competitive
+- C: Es-tu une personne compétitive ?
+
+## Erreurs
+
+- <>
+
+## Vocab
+
 ## 10 Aout, 2026
 
 - I: You wrote: Les possibilites sont infinit
