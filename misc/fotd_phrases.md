@@ -1,0 +1,16 @@
+# French of the day phrases
+
+- F: Faut pas pousser mémé dans les orties.
+- E: dont push grandma in the nettles/dont go too far
+
+- F: Ne me casse pas les couilles.
+- E: Dont break my balls/stop giving me a hard time
+
+- F: Tu pousses le bouchon un peu trop loin
+- E: You're pushing the cork a bit too far/dont go too far
+
+- F: On a fusillé pour moins que ça
+- E: people have been shot for less than that
+
+- F:Les cons ca ose tout, c'est meme à ça qu'on les reconnait
+- E: Fools/Idiots dare anything, that's how you recognize them
