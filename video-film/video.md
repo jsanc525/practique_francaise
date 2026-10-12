@@ -1,5 +1,24 @@
 # Videos and notes
 
+## Nota Bene: On cuisine un plat au lard typique du Moyen Âge
+
+- [le lien](https://www.youtube.com/watch?v=PLCtkPvlQtE)
+
+### Vocab
+
+- navet: turnip
+- l'alimentation: diet / nutrition / food supply
+- découenner: remove the rind? (in the video it was trimming the fat ?)
+
+### Phrases
+
+
+### Questions
+
+
+### Notes/divers
+
+
 ## Nota Bene: Le plat du Moyen Àge que met tout le monde d'accord
 
 - [le lien](https://www.youtube.com/watch?v=CjwoIbfwKV8)
